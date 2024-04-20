@@ -1,0 +1,144 @@
+label{
+    position: absolute;
+    color:darkslategrey ;
+    top: 1.7em;
+    margin-left: 6em;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+#sender-Name{
+    position: absolute;
+    top: 1.7em;
+    height: 3em;
+    width: 50em;
+    border-radius: 10px;
+    padding-left: 20em;
+    margin-left: 17em;
+}
+#sender-Name:focus{
+    box-shadow: 0 0 10px black;
+}
+.button{
+    position: absolute;
+    top: 2em;
+    left: 69em;
+}
+#ten-rs{
+    position: absolute;
+    height: 9em;
+    width: 18em;
+    top: 10em;
+}
+#amount-1{
+    position: absolute;
+    top: 21em;
+    left: 2.5em;
+    border: 1px solid;
+    padding-left: 6em;
+    height: 2em;
+    width: 12em;
+    box-shadow: 0 0 10px black;
+}
+#twenty-rs{
+    position: absolute;
+    height: 9em;
+    width: 18em;
+    left: 20em;
+    top: 10em;
+}
+#amount-2{
+    position: absolute;
+    top: 21em;
+    left: 23em;
+    border: 1px solid;
+    padding-left: 6em;
+    height: 2em;
+    width: 12em;
+    box-shadow: 0 0 10px black;
+}
+#fifty-rs{
+    position: absolute;
+    height: 9em;
+    width: 18em;
+    left: 40em;
+    top: 10em;
+}
+#amount-3{
+    position: absolute;
+    top: 21em;
+    left: 43em;
+    border: 1px solid;
+    padding-left: 6em;
+    height: 2em;
+    width: 12em;
+    box-shadow: 0 0 10px black;
+}
+#hundred-rs{
+    position: absolute;
+    height: 9em;
+    width: 18em;
+    left: 60em;
+    top: 10em;
+}
+#amount-4{
+    position: absolute;
+    top: 21em;
+    left: 63em;
+    border: 1px solid;
+    padding-left: 6em;
+    height: 2em;
+    width: 12em;
+    box-shadow: 0 0 10px black;
+}
+#five-hundred-rs{
+    position: absolute;
+    height: 9em;
+    width: 18em;
+    left: 40em;
+    top: 30em;
+    left: 2em;
+}
+#amount-5{
+    position: absolute;
+    top: 40em;
+    left: 5em;
+    border: 1px solid;
+    padding-left: 6em;
+    height: 2em;
+    width: 12em;
+    box-shadow: 0 0 10px black;
+}
+#thousand-rs{
+    position: absolute;
+    height: 9em;
+    width: 18em;
+    left: 30em;
+    top: 30em;
+}
+#amount-6{
+    position: absolute;
+    top: 40em;
+    left: 33em;
+    border: 1px solid;
+    padding-left: 6em;
+    height: 2em;
+    width: 12em;
+    box-shadow: 0 0 10px black;
+}
+#five-thousand-rs{
+    position: absolute;
+    height: 9em;
+    width: 18em;
+    left: 60em;
+    top: 30em;
+}
+#amount-7{
+    position: absolute;
+    top: 40em;
+    left: 63em;
+    border: 1px solid;
+    padding-left: 6em;
+    height: 2em;
+    width: 12em;
+    box-shadow: 0 0 10px black;
+}
